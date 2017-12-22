@@ -1,5 +1,4 @@
-# object-oriented-programming
-cricket game
+
                  Object oriented programming
                      Project Proposal
 
